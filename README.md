@@ -17,6 +17,8 @@
             android:src="@drawable/cat"/>
 </LinearLayout>
 ```
+## 效果图
+![image](https://github.com/imcloud/LoweImageView/blob/master/Screenshot_2015-06-10-15-33-04.png)
 ## Usage
 
 extends imageview
